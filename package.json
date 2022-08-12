@@ -1,6 +1,6 @@
 {
-    "title": "Stylish Portfolio",
-    "name": "startbootstrap-stylish-portfolio",
+    "title": "Rangkalam",
+    "name": "rangkalam",
     "version": "6.0.5",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
@@ -12,7 +12,7 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "A stylish portfolio HTML template built with Bootstrap",
+    "description": "Rangkalam - Customized art solutions",
     "keywords": [
         "css",
         "sass",
